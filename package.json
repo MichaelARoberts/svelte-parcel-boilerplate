@@ -2,7 +2,9 @@
   "name": "svelte-parcel-boilerplate",
   "version": "1.0.0",
   "description": "",
-  "dependencies": {},
+  "dependencies": {
+    "page": "^1.11.6"
+  },
   "devDependencies": {
     "eslint": "^7.12.1",
     "eslint-config-standard": "^16.0.1",
